@@ -1,0 +1,757 @@
+{
+  "fichier_source": "Estimation_20260331_143912.xlsx",
+  "lignes": [
+    {
+      "numero": "I",
+      "description": "TERRASSEMENT",
+      "unite": "",
+      "quantite": "",
+      "prix_unitaire": "",
+      "montant": ""
+    },
+    {
+      "numero": "I.1",
+      "description": "IMPLANTATION",
+      "unite": "m²",
+      "quantite": "300,00",
+      "prix_unitaire": "500,00",
+      "montant": "150 000,00"
+    },
+    {
+      "numero": "I.2",
+      "description": "Fouille pour semelles filantes",
+      "unite": "m3",
+      "quantite": "31,20",
+      "prix_unitaire": "3 500,00",
+      "montant": "109 200,00"
+    },
+    {
+      "numero": "I.3",
+      "description": "Fouille pour semelles isolées",
+      "unite": "m3",
+      "quantite": "50,00",
+      "prix_unitaire": "4 000,00",
+      "montant": "200 000,00"
+    },
+    {
+      "numero": "I.4",
+      "description": "Remblai sans apport",
+      "unite": "m3",
+      "quantite": "50,00",
+      "prix_unitaire": "3 000,00",
+      "montant": "150 000,00"
+    },
+    {
+      "numero": "I.5",
+      "description": "Remblai avec apport",
+      "unite": "m3",
+      "quantite": "171,60",
+      "prix_unitaire": "5 000,00",
+      "montant": "858 000,00"
+    },
+    {
+      "numero": "I.6",
+      "description": "Remblai hydraulique",
+      "unite": "m2",
+      "quantite": "14,30",
+      "prix_unitaire": "8 000,00",
+      "montant": "114 400,00"
+    },
+    {
+      "numero": "I.7",
+      "description": "Film polyane et  anti-termittes",
+      "unite": "m2",
+      "quantite": "286,00",
+      "prix_unitaire": "2 000,00",
+      "montant": "572 000,00"
+    },
+    {
+      "numero": "TOTAL I",
+      "description": "",
+      "unite": "",
+      "quantite": "",
+      "prix_unitaire": "Somme",
+      "montant": "2 153 600,00"
+    },
+    {
+      "numero": "II",
+      "description": "INFRASTRUCTURE",
+      "unite": "",
+      "quantite": "",
+      "prix_unitaire": "",
+      "montant": ""
+    },
+    {
+      "numero": "II.1",
+      "description": "Béton de propreté dosé à 150 kg/m3",
+      "unite": "m3",
+      "quantite": "3,90",
+      "prix_unitaire": "55 000,00",
+      "montant": "214 500,00"
+    },
+    {
+      "numero": "II.2",
+      "description": "Béton armé cyclopéen dosé à 250 kg/m3 pour semelle fillante",
+      "unite": "m3",
+      "quantite": "27,30",
+      "prix_unitaire": "150 000,00",
+      "montant": "4 095 000,00"
+    },
+    {
+      "numero": "II.3",
+      "description": "Béton armé dosé à 350 kg/m3 pour semelles isolées",
+      "unite": "m3",
+      "quantite": "13,00",
+      "prix_unitaire": "150 000,00",
+      "montant": "1 950 000,00"
+    },
+    {
+      "numero": "II.4",
+      "description": "Béton armé dosé à 350 kg/m3 pour potelets",
+      "unite": "m3",
+      "quantite": "0,55",
+      "prix_unitaire": "150 000,00",
+      "montant": "83 025,00"
+    },
+    {
+      "numero": "II.5",
+      "description": "Maçonnerie en agglos pleins de 20x20x40",
+      "unite": "m²",
+      "quantite": "78,00",
+      "prix_unitaire": "9 000,00",
+      "montant": "702 000,00"
+    },
+    {
+      "numero": "II.6",
+      "description": "Béton armé dosé à 350 kg/m3 pour longrines",
+      "unite": "m3",
+      "quantite": "7,80",
+      "prix_unitaire": "150 000,00",
+      "montant": "1 170 000,00"
+    },
+    {
+      "numero": "II.7",
+      "description": "Béton armé dosé à 350 kg/m3 pour aire de dallage",
+      "unite": "m3",
+      "quantite": "0,00",
+      "prix_unitaire": "150 000,00",
+      "montant": ""
+    },
+    {
+      "numero": "TOTAL II",
+      "description": "",
+      "unite": "",
+      "quantite": "",
+      "prix_unitaire": "Somme",
+      "montant": "8 214 525,00"
+    },
+    {
+      "numero": "III",
+      "description": "SUPERSTRUCTURE",
+      "unite": "",
+      "quantite": "",
+      "prix_unitaire": "",
+      "montant": ""
+    },
+    {
+      "numero": "III.1",
+      "description": "Béton armé dosé à 350 kg/m3 pour poteau de structure",
+      "unite": "m3",
+      "quantite": "12,70",
+      "prix_unitaire": "150 000,00",
+      "montant": "1 905 000,00"
+    },
+    {
+      "numero": "III.2",
+      "description": "Béton armé dosé à 350 kg/m3 pour raidisseur",
+      "unite": "m3",
+      "quantite": "0,72",
+      "prix_unitaire": "150 000,00",
+      "montant": "108 000,00"
+    },
+    {
+      "numero": "III.3",
+      "description": "Béton armé dosé à 350 kg/m3 pour poutre ",
+      "unite": "m3",
+      "quantite": "25,50",
+      "prix_unitaire": "150 000,00",
+      "montant": "3 825 000,00"
+    },
+    {
+      "numero": "III.4",
+      "description": "Plancher en hourdi y compris dalle de compression",
+      "unite": "m²",
+      "quantite": "257,00",
+      "prix_unitaire": "25 000,00",
+      "montant": "6 425 000,00"
+    },
+    {
+      "numero": "III.5",
+      "description": "Béton armé dosé à 350 kg/m3 pour chainage",
+      "unite": "m3",
+      "quantite": "4,50",
+      "prix_unitaire": "150 000,00",
+      "montant": "675 000,00"
+    },
+    {
+      "numero": "III.6",
+      "description": "Béton armé dosé à 350 kg/m3 pour appuis de baie",
+      "unite": "m²",
+      "quantite": "0,72",
+      "prix_unitaire": "150 000,00",
+      "montant": "108 000,00"
+    },
+    {
+      "numero": "III.7",
+      "description": "Maçonnerie en agglos creux de 15x20x40 mur interieur",
+      "unite": "m²",
+      "quantite": "435,00",
+      "prix_unitaire": "7 000,00",
+      "montant": "3 045 000,00"
+    },
+    {
+      "numero": "III.8",
+      "description": "Maçonnerie en agglos creux de 15x20x40 mur esterieur",
+      "unite": "m²",
+      "quantite": "219,00",
+      "prix_unitaire": "7 000,00",
+      "montant": "1 533 000,00"
+    },
+    {
+      "numero": "III.9",
+      "description": "Enduit intérieur au mortier de ciment",
+      "unite": "m²",
+      "quantite": "435,00",
+      "prix_unitaire": "2 500,00",
+      "montant": "1 087 500,00"
+    },
+    {
+      "numero": "III.10",
+      "description": "Enduit sous face dalle au mortier de ciment",
+      "unite": "m²",
+      "quantite": "257,00",
+      "prix_unitaire": "2 500,00",
+      "montant": "642 500,00"
+    },
+    {
+      "numero": "III.11",
+      "description": "Enduit extérieur au mortier de ciment",
+      "unite": "m²",
+      "quantite": "219,00",
+      "prix_unitaire": "2 500,00",
+      "montant": "547 500,00"
+    },
+    {
+      "numero": "III.12",
+      "description": "Béton armé dosé à 350 kg/m3 de ciment CPA 45 pour escalier",
+      "unite": "m³",
+      "quantite": "2,64",
+      "prix_unitaire": "150 000,00",
+      "montant": "396 000,00"
+    },
+    {
+      "numero": "TOTAL III",
+      "description": "",
+      "unite": "",
+      "quantite": "",
+      "prix_unitaire": "Somme",
+      "montant": "20 297 500,00"
+    },
+    {
+      "numero": "IV",
+      "description": "MENUISERIE",
+      "unite": "",
+      "quantite": "",
+      "prix_unitaire": "",
+      "montant": ""
+    },
+    {
+      "numero": "IV.1",
+      "description": "Fourniture et pose de Fenêtre, Allu vitré avec grille (120X120)",
+      "unite": "u",
+      "quantite": "6,00",
+      "prix_unitaire": "72 000,00",
+      "montant": "432 000,00"
+    },
+    {
+      "numero": "IV.2",
+      "description": "Fourniture et pose de Fenêtre, Allu vitré avec grille (60X60)",
+      "unite": "u",
+      "quantite": "2,00",
+      "prix_unitaire": "18 000,00",
+      "montant": "36 000,00"
+    },
+    {
+      "numero": "IV.3",
+      "description": "Fourniture et pose de Fenêtre, Allu vitré avec grille (200X200)",
+      "unite": "u",
+      "quantite": "1,00",
+      "prix_unitaire": "200 000,00",
+      "montant": "200 000,00"
+    },
+    {
+      "numero": "IV.4",
+      "description": "Fourniture et pose de Fenêtre, Allu vitré avec grille (140X140)",
+      "unite": "u",
+      "quantite": "2,00",
+      "prix_unitaire": "98 000,00",
+      "montant": "196 000,00"
+    },
+    {
+      "numero": "IV.5",
+      "description": "Fourniture et pose de Porte, Isoplane (80X220)",
+      "unite": "u",
+      "quantite": "5,00",
+      "prix_unitaire": "88 000,00",
+      "montant": "440 000,00"
+    },
+    {
+      "numero": "IV.6",
+      "description": "Fourniture et pose de Porte, Isoplane (70X220)",
+      "unite": "u",
+      "quantite": "2,00",
+      "prix_unitaire": "77 000,00",
+      "montant": "154 000,00"
+    },
+    {
+      "numero": "IV.7",
+      "description": "Fourniture et pose de Porte, Allu vitré avec grille (120X220)",
+      "unite": "u",
+      "quantite": "2,00",
+      "prix_unitaire": "132 000,00",
+      "montant": "264 000,00"
+    },
+    {
+      "numero": "TOTAL IV",
+      "description": "",
+      "unite": "",
+      "quantite": "",
+      "prix_unitaire": "Somme",
+      "montant": "1 722 000,00"
+    },
+    {
+      "numero": "V",
+      "description": "ELECTRICITE",
+      "unite": "",
+      "quantite": "",
+      "prix_unitaire": "",
+      "montant": ""
+    },
+    {
+      "numero": "V.1",
+      "description": "Fourniture et pose de tube gorgée",
+      "unite": "ff",
+      "quantite": "1,00",
+      "prix_unitaire": "750 000,00",
+      "montant": "750 000,00"
+    },
+    {
+      "numero": "V.2",
+      "description": "Fourniture et pose de filerie électrique",
+      "unite": "ff",
+      "quantite": "1,00",
+      "prix_unitaire": "450 000,00",
+      "montant": "450 000,00"
+    },
+    {
+      "numero": "V.3",
+      "description": "Fourniture et pose de Coffret électrique équipé",
+      "unite": "ff",
+      "quantite": "1,00",
+      "prix_unitaire": "500 000,00",
+      "montant": "500 000,00"
+    },
+    {
+      "numero": "V.4",
+      "description": "Fourniture et pose de Climatisation Type Split 2V",
+      "unite": "u",
+      "quantite": "4,00",
+      "prix_unitaire": "200 000,00",
+      "montant": "800 000,00"
+    },
+    {
+      "numero": "V.5",
+      "description": "Fourniture et pose de Brasseur d'air + rhéostat",
+      "unite": "u",
+      "quantite": "4,00",
+      "prix_unitaire": "40 000,00",
+      "montant": "160 000,00"
+    },
+    {
+      "numero": "V.6",
+      "description": "Fourniture et pose de Globe Plafonnier",
+      "unite": "u",
+      "quantite": "6,00",
+      "prix_unitaire": "5 000,00",
+      "montant": "30 000,00"
+    },
+    {
+      "numero": "V.7",
+      "description": "Fourniture et pose de Interrupteur Double Allumage vas et vient",
+      "unite": "u",
+      "quantite": "2,00",
+      "prix_unitaire": "4 000,00",
+      "montant": "8 000,00"
+    },
+    {
+      "numero": "V.8",
+      "description": "Fourniture et pose de Interrupteur Simple",
+      "unite": "u",
+      "quantite": "2,00",
+      "prix_unitaire": "4 000,00",
+      "montant": "8 000,00"
+    },
+    {
+      "numero": "V.9",
+      "description": "Fourniture et pose de Interrupteur va et vient",
+      "unite": "u",
+      "quantite": "7,00",
+      "prix_unitaire": "3 500,00",
+      "montant": "24 500,00"
+    },
+    {
+      "numero": "V.10",
+      "description": "Fourniture et pose de Interruptur double",
+      "unite": "u",
+      "quantite": "1,00",
+      "prix_unitaire": "5 000,00",
+      "montant": "5 000,00"
+    },
+    {
+      "numero": "V.11",
+      "description": "Fourniture et pose de Prise de courant Etanche",
+      "unite": "u",
+      "quantite": "2,00",
+      "prix_unitaire": "4 000,00",
+      "montant": "8 000,00"
+    },
+    {
+      "numero": "V.12",
+      "description": "Fourniture et pose de Prise de Courant+Terre",
+      "unite": "u",
+      "quantite": "11,00",
+      "prix_unitaire": "3 500,00",
+      "montant": "38 500,00"
+    },
+    {
+      "numero": "V.13",
+      "description": "Fourniture et pose de Prise Television",
+      "unite": "u",
+      "quantite": "1,00",
+      "prix_unitaire": "7 000,00",
+      "montant": "7 000,00"
+    },
+    {
+      "numero": "V.14",
+      "description": "Fourniture et pose de Prise Telephone",
+      "unite": "u",
+      "quantite": "1,00",
+      "prix_unitaire": "7 000,00",
+      "montant": "7 000,00"
+    },
+    {
+      "numero": "V.15",
+      "description": "Fourniture et pose de SPOT ENCASTRE 6 WATTS",
+      "unite": "u",
+      "quantite": "20,00",
+      "prix_unitaire": "5 000,00",
+      "montant": "100 000,00"
+    },
+    {
+      "numero": "TOTAL V",
+      "description": "",
+      "unite": "",
+      "quantite": "",
+      "prix_unitaire": "Somme",
+      "montant": "2 896 000,00"
+    },
+    {
+      "numero": "VI",
+      "description": "PLOMBERIE SANITAIRE",
+      "unite": "",
+      "quantite": "",
+      "prix_unitaire": "",
+      "montant": ""
+    },
+    {
+      "numero": "VI.1",
+      "description": "Fourniture et pose de Tuyauterie d'alimentation et d'évacuation",
+      "unite": "Ens.",
+      "quantite": "1,00",
+      "prix_unitaire": "600 000,00",
+      "montant": "600 000,00"
+    },
+    {
+      "numero": "VI.2",
+      "description": "Fourniture et pose de Baignoire",
+      "unite": "u",
+      "quantite": "1,00",
+      "prix_unitaire": "120 000,00",
+      "montant": "120 000,00"
+    },
+    {
+      "numero": "VI.3",
+      "description": "Fourniture et pose de COLONE DE DOUCHE",
+      "unite": "u",
+      "quantite": "2,00",
+      "prix_unitaire": "15 000,00",
+      "montant": "30 000,00"
+    },
+    {
+      "numero": "VI.4",
+      "description": "Fourniture et pose de Evier à double bacs",
+      "unite": "u",
+      "quantite": "3,00",
+      "prix_unitaire": "10 000,00",
+      "montant": "30 000,00"
+    },
+    {
+      "numero": "VI.5",
+      "description": "Fourniture et pose de Lavabo",
+      "unite": "u",
+      "quantite": "3,00",
+      "prix_unitaire": "40 000,00",
+      "montant": "120 000,00"
+    },
+    {
+      "numero": "VI.6",
+      "description": "Fourniture et pose de siphon de sol",
+      "unite": "u",
+      "quantite": "3,00",
+      "prix_unitaire": "5 000,00",
+      "montant": "15 000,00"
+    },
+    {
+      "numero": "VI.7",
+      "description": "Fourniture et pose de WC",
+      "unite": "u",
+      "quantite": "3,00",
+      "prix_unitaire": "70 000,00",
+      "montant": "210 000,00"
+    },
+    {
+      "numero": "TOTAL VI",
+      "description": "",
+      "unite": "",
+      "quantite": "",
+      "prix_unitaire": "Somme",
+      "montant": "1 125 000,00"
+    },
+    {
+      "numero": "VII",
+      "description": "REVETEMENT",
+      "unite": "",
+      "quantite": "",
+      "prix_unitaire": "",
+      "montant": ""
+    },
+    {
+      "numero": "VII.1",
+      "description": "Carreau grès cérame sol",
+      "unite": "m²",
+      "quantite": "286,00",
+      "prix_unitaire": "10 000,00",
+      "montant": "2 860 000,00"
+    },
+    {
+      "numero": "VII.2",
+      "description": "plinthes",
+      "unite": "m²",
+      "quantite": "41,70",
+      "prix_unitaire": "9 000,00",
+      "montant": "375 300,00"
+    },
+    {
+      "numero": "VII.3",
+      "description": "Faience sur mur cuisine",
+      "unite": "m²",
+      "quantite": "20,00",
+      "prix_unitaire": "8 000,00",
+      "montant": "160 000,00"
+    },
+    {
+      "numero": "VII.4",
+      "description": "Faience sur mur toillettes",
+      "unite": "m²",
+      "quantite": "32,00",
+      "prix_unitaire": "8 000,00",
+      "montant": "256 000,00"
+    },
+    {
+      "numero": "TOTAL VII",
+      "description": "",
+      "unite": "",
+      "quantite": "",
+      "prix_unitaire": "Somme",
+      "montant": "3 651 300,00"
+    },
+    {
+      "numero": "VIII",
+      "description": "PEINTURE",
+      "unite": "",
+      "quantite": "",
+      "prix_unitaire": "",
+      "montant": ""
+    },
+    {
+      "numero": "VIII.1",
+      "description": "Badigeon à la chaux",
+      "unite": "m²",
+      "quantite": "870,00",
+      "prix_unitaire": "300,00",
+      "montant": "261 000,00"
+    },
+    {
+      "numero": "VIII.2",
+      "description": "Peinture intérieur fom sur mur intérieur",
+      "unite": "m²",
+      "quantite": "651,00",
+      "prix_unitaire": "3 000,00",
+      "montant": "1 953 000,00"
+    },
+    {
+      "numero": "VIII.3",
+      "description": "Peinture plastique (marmorex) pour extérieur",
+      "unite": "m²",
+      "quantite": "219,00",
+      "prix_unitaire": "6 000,00",
+      "montant": "1 314 000,00"
+    },
+    {
+      "numero": "TOTAL VIII",
+      "description": "",
+      "unite": "",
+      "quantite": "",
+      "prix_unitaire": "Somme",
+      "montant": "3 528 000,00"
+    },
+    {
+      "numero": "IX",
+      "description": "TOITURE",
+      "unite": "",
+      "quantite": "",
+      "prix_unitaire": "",
+      "montant": ""
+    },
+    {
+      "numero": "IX.1",
+      "description": "TOITURE",
+      "unite": "m²",
+      "quantite": "252,00",
+      "prix_unitaire": "10 000,00",
+      "montant": "2 520 000,00"
+    },
+    {
+      "numero": "IX.2",
+      "description": "ETENCHEITE",
+      "unite": "FF",
+      "quantite": "1,00",
+      "prix_unitaire": "15 000,00",
+      "montant": "15 000,00"
+    },
+    {
+      "numero": "TOTAL IX",
+      "description": "",
+      "unite": "",
+      "quantite": "",
+      "prix_unitaire": "Somme",
+      "montant": "2 535 000,00"
+    },
+    {
+      "numero": "--- RÉCAPITULATIF ---",
+      "description": "",
+      "unite": "",
+      "quantite": "",
+      "prix_unitaire": "",
+      "montant": ""
+    },
+    {
+      "numero": "I",
+      "description": "TERRASSEMENT",
+      "unite": "",
+      "quantite": "",
+      "prix_unitaire": "",
+      "montant": "2 153 600,00"
+    },
+    {
+      "numero": "II",
+      "description": "INFRASTRUCTURE",
+      "unite": "",
+      "quantite": "",
+      "prix_unitaire": "",
+      "montant": "8 214 525,00"
+    },
+    {
+      "numero": "III",
+      "description": "SUPERSTRUCTURE",
+      "unite": "",
+      "quantite": "",
+      "prix_unitaire": "",
+      "montant": "20 297 500,00"
+    },
+    {
+      "numero": "IV",
+      "description": "MENUISERIE",
+      "unite": "",
+      "quantite": "",
+      "prix_unitaire": "",
+      "montant": "1 722 000,00"
+    },
+    {
+      "numero": "V",
+      "description": "ELECTRICITE",
+      "unite": "",
+      "quantite": "",
+      "prix_unitaire": "",
+      "montant": "2 896 000,00"
+    },
+    {
+      "numero": "VI",
+      "description": "PLOMBERIE SANITAIRE",
+      "unite": "",
+      "quantite": "",
+      "prix_unitaire": "",
+      "montant": "1 125 000,00"
+    },
+    {
+      "numero": "VII",
+      "description": "REVETEMENT",
+      "unite": "",
+      "quantite": "",
+      "prix_unitaire": "",
+      "montant": "3 651 300,00"
+    },
+    {
+      "numero": "VIII",
+      "description": "PEINTURE",
+      "unite": "",
+      "quantite": "",
+      "prix_unitaire": "",
+      "montant": "3 528 000,00"
+    },
+    {
+      "numero": "IX",
+      "description": "TOITURE",
+      "unite": "",
+      "quantite": "",
+      "prix_unitaire": "",
+      "montant": "2 535 000,00"
+    },
+    {
+      "numero": "TOTAL GÉNÉRAL HTVA",
+      "description": "",
+      "unite": "",
+      "quantite": "",
+      "prix_unitaire": "",
+      "montant": "46 122 925,00"
+    },
+    {
+      "numero": "Arrêter le présent devis estimatif à la somme de : quarante-six millions cent vingt-deux mille neuf cent vingt-cinq  (46122925)  Francs CFA",
+      "description": "",
+      "unite": "",
+      "quantite": "",
+      "prix_unitaire": "",
+      "montant": ""
+    }
+  ]
+}

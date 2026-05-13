@@ -1,0 +1,12 @@
+# EstimBatiment — dépendances Python
+# Installer avec : pip install -r requirements.txt
+
+# Interface CTk (app standalone)
+customtkinter
+
+# Serveur API (intégration Flutter)
+fastapi
+uvicorn[standard]
+
+# Traitement Excel (partagé)
+openpyxl

@@ -1,0 +1,48 @@
+name: ngnior_conception_flutter
+description: Architecture Digital Gallery - Catalogue de projets d'habitation
+publish_to: 'none'
+version: 2.0.0+1
+
+environment:
+  sdk: '>=3.0.0 <4.0.0'
+
+dependencies:
+  flutter:
+    sdk: flutter
+
+  # Gestion du stockage local
+  shared_preferences: ^2.2.2
+  
+  # Sélection de fichiers/dossiers
+  file_picker: ^6.1.1
+  
+  # Ouverture de dossiers système
+  url_launcher: ^6.2.2
+
+  # Requêtes HTTP (EstimBatiment API)
+  http: ^1.2.0
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^3.0.0
+  msix: ^3.16.13
+
+msix_config:
+  display_name: NGnior Bureau
+  publisher_display_name: NGnior Conception
+  identity_name: com.ngnior.bureau
+  publisher: CN=NGnior Conception
+  msix_version: 2.0.0.0
+  logo_path: assets\icones\app_icon_256.png
+  start_menu_icon_path: assets\icones\app_icon_256.png
+  tile_icon_path: assets\icones\app_icon_256.png
+  icons_background_color: transparent
+  architecture: x64
+  capabilities: internetClient, privateNetworkClientServer
+
+flutter:
+  uses-material-design: true
+
+  assets:
+    - assets/icones/

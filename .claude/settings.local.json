@@ -1,0 +1,12 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(gh api:*)",
+      "WebFetch(domain:raw.githubusercontent.com)",
+      "Bash(claude --version)",
+      "Bash(claude plugin:*)",
+      "Bash(mkdir -p \"C:/Users/User/.claude/plugins/frontend-design/.claude-plugin\")",
+      "Bash(mkdir -p \"C:/Users/User/.claude/plugins/frontend-design/skills/frontend-design\")"
+    ]
+  }
+}

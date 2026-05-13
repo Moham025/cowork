@@ -1,0 +1,8 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(cd /d D:BOLO9-EstimBatiment)",
+      "Bash(python3:*)"
+    ]
+  }
+}
