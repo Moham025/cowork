@@ -39,6 +39,17 @@ os.makedirs(CACHE_DIR, exist_ok=True)
 
 app = FastAPI(title="EstimBatiment API", version="2.0")
 
+# Configuration CORS pour permettre les requêtes depuis Vercel (ou autre domaine front-end)
+from fastapi.middleware.cors import CORSMiddleware
+
+app.add_middleware(
+    CORSMiddleware,
+    allow_origins=["*"],  # En production, remplacer "*" par l'URL de l'application Flutter (ex: "https://mon-app.vercel.app")
+    allow_credentials=True,
+    allow_methods=["*"],
+    allow_headers=["*"],
+)
+
 
 def _sanitize(obj):
     """Remplace NaN/Inf par 0 récursivement pour éviter les erreurs JSON."""

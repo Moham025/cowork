@@ -1,0 +1,20 @@
+# Fichiers Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Fichiers cache et temporaires
+.cache/
+Estimation_*.json
+Estimation.pdf
+!requirements.txt
+*.xlsx
+
+# Environnement virtuel (si jamais)
+venv/
+env/
+.venv/
+
+# Variables d'environnement
+.env
