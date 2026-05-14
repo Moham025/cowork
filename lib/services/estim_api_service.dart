@@ -123,7 +123,8 @@ class EstimApiService {
 
   static const _defaultBase = String.fromEnvironment(
     'API_BASE',
-    defaultValue: 'http://127.0.0.1:8765',
+    // Si on est sur le web (Vercel), on utilise l'API Render. Sinon on utilise l'API locale.
+    defaultValue: kIsWeb ? 'https://cowork-estim.onrender.com' : 'http://127.0.0.1:8765',
   );
 
   String get baseUrl => _defaultBase;
@@ -144,6 +145,7 @@ class EstimApiService {
   // ─── Cycle de vie ───────────────────────────────────────────────────────────
 
   Future<bool> demarrerServeur({bool forceRestart = false}) async {
+    if (kIsWeb) return false;
     if (!Platform.isWindows && !Platform.isLinux && !Platform.isMacOS) {
       return false;
     }
@@ -197,6 +199,7 @@ class EstimApiService {
   }
 
   Future<void> _tuerProcessSurPort(int port) async {
+    if (kIsWeb) return;
     if (!Platform.isWindows) return;
     try {
       // PowerShell : plus fiable que netstat sur Windows
