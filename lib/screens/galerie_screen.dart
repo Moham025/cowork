@@ -1,6 +1,7 @@
 // lib/screens/galerie_screen.dart
 
 import 'dart:io';
+import 'package:flutter/foundation.dart';
 import 'package:flutter/material.dart';
 import 'package:file_picker/file_picker.dart';
 import '../models/projet_model.dart';
@@ -44,6 +45,25 @@ class _GalerieScreenState extends State<GalerieScreen> {
   }
 
   Future<void> _changerDossier() async {
+    if (kIsWeb) {
+      showDialog(
+        context: context,
+        builder: (context) => AlertDialog(
+          title: const Text('Non supporté sur le Web'),
+          content: const Text(
+              'Pour des raisons de sécurité, les navigateurs web interdisent la lecture directe des dossiers de votre ordinateur.\n\n'
+              'Veuillez utiliser la version Windows (.exe) de l\'application pour gérer vos dossiers locaux.'),
+          actions: [
+            TextButton(
+              onPressed: () => Navigator.pop(context),
+              child: const Text('OK'),
+            ),
+          ],
+        ),
+      );
+      return;
+    }
+
     String? selectedDirectory = await FilePicker.platform.getDirectoryPath(
       dialogTitle: 'Sélectionnez le dossier Habitation',
     );
