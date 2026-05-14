@@ -145,7 +145,10 @@ class EstimApiService {
   // ─── Cycle de vie ───────────────────────────────────────────────────────────
 
   Future<bool> demarrerServeur({bool forceRestart = false}) async {
-    if (kIsWeb) return false;
+    // Sur le Web, on utilise l'API distante (Render). On retourne toujours true
+    // pour que l'interface s'affiche. Si Render est endormi, il se réveillera lors du 1er calcul.
+    if (kIsWeb) return true;
+    
     if (!Platform.isWindows && !Platform.isLinux && !Platform.isMacOS) {
       return false;
     }
